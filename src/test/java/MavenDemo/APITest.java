@@ -7,6 +7,8 @@ public class APITest {
 	@Test
 	public void postJira() {
 		System.out.println("I am in postJira");
+		System.out.println("I am in postproJira");
+
 	}
 	
 	@Test
