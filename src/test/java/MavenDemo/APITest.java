@@ -8,6 +8,7 @@ public class APITest {
 	public void postJira() {
 		System.out.println("I am in postJira");
 		System.out.println("I am in postproJira");
+		System.out.println("I am in GitX");
 
 	}
 	
