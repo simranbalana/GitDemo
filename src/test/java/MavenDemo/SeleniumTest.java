@@ -13,4 +13,9 @@ public class SeleniumTest {
 	public void elementsUI() {
 		System.out.println("I am in elementsUI");
 	}
+	
+	@Test
+	public void elementsAPI() {
+		System.out.println("I am in elementsAPI");
+	}
 }

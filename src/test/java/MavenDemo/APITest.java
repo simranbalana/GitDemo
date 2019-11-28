@@ -15,4 +15,9 @@ public class APITest {
 	public void deleteTwitter() {
 		System.out.println("I am in deleteTwitter");
 	}
+	
+	@Test
+	public void deleteFacebook() {
+		System.out.println("I am in deleteFacebook");
+	}
 }
